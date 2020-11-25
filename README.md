@@ -1,5 +1,5 @@
 # automatedEmail
-This program pulls from an excel spread sheeet and sends emails in mass.
+This script pulls from an excel spread sheeet and sends emails in mass.
 
 This program can send emails depending on admin privileges for mail client. Depending on settings, may be limited to sending limited emails in one run (ex. can send up to 20 emails)
 
